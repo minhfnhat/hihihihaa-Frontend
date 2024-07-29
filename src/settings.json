@@ -1,0 +1,90 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Experience the joy of food reimagined. Taste, savor, and laugh with every bite.",
+        "title": "Discover Culinary Delights with LOL"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Experience the joy of food reimagined. Taste, savor, and laugh with every bite.",
+        "title": "Discover Culinary Delights with LOL"
+      }
+    },
+    {
+      "id": "NewsletterSideBySideOnCard",
+      "variables": {
+        "buttonText": "Subscribe Now",
+        "emailLabel": "Enter Your Email for Updates",
+        "frequencyAndContent": "You will receive weekly updates featuring mouth-watering recipes, industry insights, and exclusive offers.",
+        "heading": "Get notified about delicious new food product releases!",
+        "incentives": "Sign up now and enjoy exclusive content, early access to new products, and special discounts!",
+        "privacyPolicyText": "Your privacy is important to us. Read our",
+        "subscriptionValue": "Subscribing to our newsletter grants you exclusive updates on the latest food trends, recipes, and special offers."
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the joy of food reimagined. Taste, savor, and laugh with every bite.",
+        "title": "Discover Culinary Delights with LOL"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Experience the joy of food reimagined. Taste, savor, and laugh with every bite.",
+        "title": "Discover Culinary Delights with LOL"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience the joy of food reimagined. Taste, savor, and laugh with every bite.",
+        "title": "Discover Culinary Delights with LOL"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience the joy of food reimagined. Taste, savor, and laugh with every bite.",
+        "title": "Discover Culinary Delights with LOL"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the joy of food reimagined. Taste, savor, and laugh with every bite.",
+        "title": "Discover Culinary Delights with LOL"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience the joy of food reimagined. Taste, savor, and laugh with every bite.",
+        "title": "Discover Culinary Delights with LOL"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience the joy of food reimagined. Taste, savor, and laugh with every bite.",
+        "title": "Discover Culinary Delights with LOL"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the joy of food reimagined. Taste, savor, and laugh with every bite.",
+        "title": "Discover Culinary Delights with LOL"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Discover Culinary Delights with LOL",
+  "subtitle": "Experience the joy of food reimagined. Taste, savor, and laugh with every bite."
+}
